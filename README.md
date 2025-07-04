@@ -1,4 +1,4 @@
-you can go to the commit-graph here:  [gitbooster.com/graph](https://gitbooster.com/graph)
+you can go to the commit-graph here:  [git-booster.com/graph](https://git-booster.com/graph)
 
-permanent link:  [gitbooster.com/graph/git-booster/flower](https://gitbooster.com/graph/git-booster/flower)
+permanent link:  [git-booster.com/graph/git-booster/flower](https://git-booster.com/graph/git-booster/flower)
 
